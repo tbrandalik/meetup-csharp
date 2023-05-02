@@ -1,1 +1,1 @@
-# meetup-csharp
+# Project meetup
